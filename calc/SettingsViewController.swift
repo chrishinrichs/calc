@@ -12,7 +12,7 @@ class SettingsViewController: UIViewController, UITableViewDelegate, UITableView
 
     @IBOutlet weak var tblView: UITableView!
     
-    var items: [Int] = [18, 20, 25]
+    var items: [Int] = [18, 20, 22]
     var defaultTip = 20
     var selectedRow:UITableViewCell?
 
